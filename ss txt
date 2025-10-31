@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "servers": [
+    "vless://21d29f9b-2e05-4da7-8ad0-f3ee1afd7523@sg1.v2ray.bluevpn.cloud:8080?type=tcp&encryption=none&path=%2Fbluevpn.tech&host=www.speedtest.net.onelink.me.net&headerType=http&security=none#BLUEVPN-TH-AIS1",
+    "vless://15141b03-f50a-4d23-8e1e-cd257232cfc5@sg1.v2ray.bluevpn.cloud:8080?type=tcp&encryption=none&path=%2Fbluevpn.tech&host=www.speedtest.net.onelink.me.net&headerType=http&security=none#BLUEVPN-TH-AIS2",
+    "vless://c33ec84f-c478-4a20-b91d-22ec15add59b@C.trueid.net.vtc77.vip:2052?type=ws&encryption=none&path=%2Fbluevpn.tech&host=sg1.v2ray.bluevpn.cloud&security=none#BLUEVPN-TH-TRUE1"
+  ]
+}
