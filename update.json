@@ -1,6 +1,6 @@
 {
   "FileName": "update",
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "ReleaseNotes": "New Update 14\n\n True Dtac Ais\n \nรองรับทั้ง 3 เครือข่าย \n\nขอขอบคุณทุกคนที่มาใช้บริการแอพฯของเราอย่าลืมให้ 5  แอพ OMO VPN ของเราด้วยนะครับ",
   "contactSupport": "",
   "config_url": "https://github.com/vpnomonet/vpn-update/raw/main/update.hs",
