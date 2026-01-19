@@ -1,6 +1,7 @@
 {
   "metadata": {
     "source_names": {
+      "default": "Fixmono",
       "animemoji": "Animemoji",
       "fixmono": "Fixmono", 
       "goseries4k": "GoSeries 4K",
@@ -15,7 +16,6 @@
       "play_animemoji": "https://moji.abcdxzy.xyz:8443/vod/"
     },
     "home_paths": {
-      "default": "/serie/",
       "animemoji": "/",
       "fixmono": "/serie/",
       "goseries4k": "/category/ดู-ซีรี่ย์ออนไลน์/",
