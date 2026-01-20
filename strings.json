@@ -4,12 +4,12 @@
       "default": "Fixmono",
       "animemoji": "Animemoji",
       "fixmono": "Fixmono", 
-      "goseries4k": "GoSeries 4K",
+      "goseries4k": "GoSeries4K",
       "wowdrama": "WowDrama",
-      "hdd1112": "1112 HDD",
+      "hdd1112": "1112HDD",
       "seriesday": "SeriesDay",
-      "movie123": "123 HDD",
-      "movie24hd": "24 HD"
+      "movie123": "123HDD",
+      "movie24hd": "24HD"
     },
     "api_urls": {
       "play_api": "https://main.24playerhd.com/newplaylist/",
