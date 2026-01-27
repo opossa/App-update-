@@ -1,0 +1,384 @@
+# SVPN - Thailand 1
+vmess://eyJhZGQiOiJzdnBuZnJlZTFqYW4uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImQxZjFmOTYyLWRlMzQtNDY4Ni05ODRiLWFiZGEwY2YyNTdlOSIsIm5ldCI6IndzIiwicGF0aCI6Ii9Xa3E2OExlMC8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# SVPN - Thailand 2
+vmess://eyJhZGQiOiJzdnBuZnJlZTJqYW4uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImEzZGQ0ZmMxLWJmZDYtNGVhOS05MzgxLWY3MTg1ZmM3Zjc2OSIsIm5ldCI6IndzIiwicGF0aCI6Ii9kbHZRR2t5ZS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# SVPN - Thailand 3
+vmess://eyJhZGQiOiJzdnBuZnJlZTNqYW4uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImU4ZTU0ODQwLTcyYmMtNDk3NS05Y2NlLTk2ZTVmZjNkYWMwZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9OUnlKV244MC8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# SVPN - Thailand 4
+vmess://eyJhZGQiOiJzdnBuZnJlZTRqYW4uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6Ijk3N2MyOTJjLTE1MmQtNDRiOS05ZjE4LTkwZDE5MDcyN2E0OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ZSE1jV1ZhTy8iLCJwb3J0IjoiODA4MCIsInBzIjoic3ZwbiBmcmVlIDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# SVPN - Thailand 5
+vmess://eyJhZGQiOiJzdnBuZnJlZTVqYW4uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjdmYjg5Yjg1LWQ2NGItNDJlOS05NTk2LWJlMjYxYmYwNjY2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9LSE9EbjdTWC8iLCJwb3J0IjoiODA4MCIsInBzIjoic3ZwbiBmcmVlIDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# SVPN - Thailand 6
+vmess://eyJhZGQiOiJzdnBuZnJlZTZqYW4uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjliZDUzZWNlLTU4MTEtNDhjNS04ZDI5LWVhMjg5OTMzMzg5NiIsIm5ldCI6IndzIiwicGF0aCI6Ii9wOXVYU0NyQi8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# SVPN - Thailand 7
+vmess://eyJhZGQiOiJzdnBuZnJlZTdqYW4uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImMxZjFiYTZjLTljNjQtNDFhYi1hMzI0LWFjOTZmZGRiZDZmNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9DZ3lLUGxrTS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# M-King-VPN - Ais Game_Support_Free 001
+vless://5de16de5-ee0e-4ded-9de8-33bd33b64202@mvpnfree1.mvpnpvpn.de5.net:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=www.speedtest.net&type=ws#MVPN%20AIS%20FREE%20V1
+
+# M-King-VPN - Ais Game_Support_Free 002
+vless://be08de6d-dc33-4f61-d95a-6ffc71792b17@mvpnfree2.mvpnpvpn.de5.net:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=www.speedtest.net&type=ws#MVPN%20AIS%20FREE%20V2
+
+# M-King-VPN - Ais Game_Support_Free 003
+vless://b7eab34e-8cbc-4c89-dd03-1551af742426@mvpnfree3.mvpnpvpn.de5.net:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=www.speedtest.net&type=ws#MVPN%20AIS%20FREE%20V3
+
+# M-King-VPN - Ais Game_Support_Free 004
+vless://092209c0-eefd-4db6-c135-cd1a6c35189a@mvpnfree4.mvpnpvpn.de5.net:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=www.speedtest.net&type=ws#MVPN%20AIS%20FREE%20V4
+
+# M-King-VPN - Ais Game_Support_Free 005
+vless://e3ea4592-9101-4672-d571-104ac0aa21dd@pphfree1.mvpnpvpn.de5.net:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=www.speedtest.net&type=ws#PPH%20AIS%20FREE%20V1
+
+# M-King-VPN - Ais Game_Support_Free 006
+vless://7610fa25-878b-486e-c686-8d1e8b3cdca1@pphfree2.mvpnpvpn.de5.net:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=www.speedtest.net&type=ws#PPH%20AIS%20FREE%20V2
+
+# M-King-VPN - Ais Game_Support_Free 007
+vless://564150f0-c0ad-46d1-8cf1-71e1900322e8@pphfree3.mvpnpvpn.de5.net:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=www.speedtest.net&type=ws#PPH%20AIS%20FREE%20V3
+
+# M-King-VPN - Ais Game_Support_Free 008
+vless://a59f611f-9dd5-469d-b58b-6f4d2a13a10a@pphfree4.mvpnpvpn.de5.net:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=www.speedtest.net&type=ws#PPH%20AIS%20FREE%20V4
+
+# M-King-VPN - True Game_Support_Free 001
+vless://5de16de5-ee0e-4ded-9de8-33bd33b64202@support.zoom.us:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=mvpnfree1.mvpnpvpn.de5.net&type=ws#MVPN%20TrueVDO%20FREE%20V1
+
+# M-King-VPN - True Game_Support_Free 002
+vless://be08de6d-dc33-4f61-d95a-6ffc71792b17@support.zoom.us:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=mvpnfree2.mvpnpvpn.de5.net&type=ws#MVPN%20TrueVDO%20FREE%20V2
+
+# M-King-VPN - True Game_Support_Free 003
+vless://b7eab34e-8cbc-4c89-dd03-1551af742426@support.zoom.us:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=mvpnfree3.mvpnpvpn.de5.net&type=ws#MVPN%20TrueVDO%20FREE%20V3
+
+# M-King-VPN - True Game_Support_Free 004
+vless://092209c0-eefd-4db6-c135-cd1a6c35189a@support.zoom.us:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=mvpnfree4.mvpnpvpn.de5.net&type=ws#MVPN%20TrueVDO%20FREE%20V4
+
+# M-King-VPN - True Game_Support_Free 005
+vless://e3ea4592-9101-4672-d571-104ac0aa21dd@support.zoom.us:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=pphfree1.mvpnpvpn.de5.net&type=ws#PPH%20TrueVDO%20FREE%20V1
+
+# M-King-VPN - True Game_Support_Free 006
+vless://7610fa25-878b-486e-c686-8d1e8b3cdca1@support.zoom.us:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=pphfree2.mvpnpvpn.de5.net&type=ws#PPH%20TrueVDO%20FREE%20V2
+
+# M-King-VPN - True Game_Support_Free 007
+vless://564150f0-c0ad-46d1-8cf1-71e1900322e8@support.zoom.us:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=pphfree3.mvpnpvpn.de5.net&type=ws#PPH%20TrueVDO%20FREE%20V3
+
+# M-King-VPN - True Game_Support_Free 008
+vless://a59f611f-9dd5-469d-b58b-6f4d2a13a10a@support.zoom.us:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=pphfree4.mvpnpvpn.de5.net&type=ws#PPH%20TrueVDO%20FREE%20V4
+
+# M-King-VPN - Ais Game_Support_Premium 001
+vless://5de16de5-ee0e-4ded-9de8-33bd33b64202@mvpnfree1.mvpnpvpn.de5.net:8080?path=%2Fmvpnpph2026&security=none&encryption=none&host=www.speedtest.net&type=ws#MVPN%20AIS%20FREE%20V1
+
+# M-King-VPN - Ais Game_Support_Premium 002
+vless://a887671b-c9bc-4a6f-f747-eb3f052c01c4@myo.vip.mvpn5g.com:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-Vip2
+
+# M-King-VPN - Ais Game_Support_Premium 003
+vless://d3b93aab-b1fb-4733-fa6f-af2daf64ec21@auto.vip4.mvpn5g.com:8080?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#Aisvip-Ais
+
+# M-King-VPN - Ais Game_Support_Premium 004
+vless://2f9198d3-d3e7-4a7d-acc1-98441b339a86@tmvh.co.mvip5.mvpn5g.com:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#Ais-Vip4
+
+# M-King-VPN - True Game_Support_Premium 001
+vless://f7c9b448-a29f-4d0b-af57-9aa4f24fe9e3@support.zoom.us:80?path=%2Fray&security=none&encryption=none&host=myo.vip.mvpn5g.com&type=ws#Admin-VDO1
+
+# M-King-VPN - True Game_Support_Premium 002
+vless://7f7167f6-4ae0-4521-a4c2-a882464f1e1d@support.zoom.us:8080?path=%2Fmovpn&security=none&encryption=none&host=auto.vip4.mvpn5g.com&type=ws#Aisvip-True
+
+# M-King-VPN - True Game_Support_Premium 003
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRtdmguY28udHp2aXAxLm12cG41Zy5jb20iLCJpZCI6ImVjOGE3NDgwLWNiZjEtNGQ3Zi05NTRhLWFiNGRlY2I1YjMyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiQWRtaW4tTVZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# M-King-VPN - True Game_Support_Premium 004
+vless://2d056ea3-52bf-472e-c9cb-abe48d6f0048@support.zoom.us:8080?path=%2Fmovpn&security=none&encryption=none&host=tmvh.co.mvip5.mvpn5g.com&type=ws#Vip-True
+
+# M-King-VPN - 🇲🇲မြန်မာသီးသန့် Premium 001
+ss://YWVzLTI1Ni1nY206MG1UT01mcy80MmJVS2RmWkxnSjBRRXlGdVhyanRPOWg2d0tVeG91WXVFND0%3D@myo.vip.mvpn5g.com:47602#Outline-Premium
+
+# M-King-VPN - 🇲🇲မြန်မာသီးသန့် Premium 002
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwWnNRUEN5R01Dd0IxN0JWZHNheVhY@tinkered-pennies-puppies.freesocks.work:443#Us1%2F38.131
+
+# M-King-VPN - 🇲🇲မြန်မာသီးသန့် Premium 003
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5Japan
+
+# M-King-VPN - TH Outlinekey Support 001
+ss://YWVzLTI1Ni1nY206eWdmYVhUMWZSZGJRbGU2MWlPT1pmREpyY3JzRFpCR1AwZGFPUzhvSncwOD0%3D@mvpnfree1.mvpnpvpn.de5.net:52351#MM%20FREE%20MVPN%20V1
+
+# M-King-VPN - TH Outlinekey Support 002
+ss://YWVzLTI1Ni1nY206TVVBZlVwWDR6MldOZElIeFRXaW9XWWdFVzdMVjFLenJGRDI1YVpXTTNabz0%3D@mvpnfree2.mvpnpvpn.de5.net:52351#MM%20FREE%20MVPN%20V2
+
+# M-King-VPN - TH Outlinekey Support 003
+ss://YWVzLTI1Ni1nY206UEtwRHl1V0dmQkN0VXExVk9yd3hGUk9kMlR1ME54bFFBYTNpRnhJdWJkaz0%3D@mvpnfree3.mvpnpvpn.de5.net:52351#MM%20FREE%20MVPN%20V3
+
+# M-King-VPN - TH Outlinekey Support 004
+ss://YWVzLTI1Ni1nY206b3RTUUNsWXl6em8wOE5tcS9uSENmNE1oVGtCMW0yb3FvWUdvTUwxSGwvYz0%3D@mvpnfree4.mvpnpvpn.de5.net:52351#MM%20FREE%20MVPN%20V4
+
+# M-King-VPN - TH Outlinekey Support 005
+ss://YWVzLTI1Ni1nY206cHJEak5kMUlMQXVNWVJoZ1JMK3hjQldYY2ZIOWQ4OW9nWlR4YXlxb21MQT0%3D@pphfree1.mvpnpvpn.de5.net:52351#MM%20FREE%20PPH%20V1
+
+# M-King-VPN - TH Outlinekey Support 006
+ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz0%3D@pphfree2.mvpnpvpn.de5.net:52351#MM%20FREE%20PPH%20V2
+
+# M-King-VPN - TH Outlinekey Support 007
+ss://YWVzLTI1Ni1nY206dS9FYjVpd1lJKzh0SWQ2ai9GemdpNEU3WWFqZE1MN0RzZlU1a2V0alIvOD0%3D@pphfree3.mvpnpvpn.de5.net:52351#MM%20FREE%20PPH%20V3
+
+# M-King-VPN - TH Outlinekey Support 008
+ss://YWVzLTI1Ni1nY206bFZkNFUwS2lkS3c0c3NsMHRKZUNXMHVsdXhvZWJlNjRobFNVVjlKZDdWTT0%3D@pphfree4.mvpnpvpn.de5.net:52351#MM%20FREE%20PPH%20V4
+
+# M-King-VPN - 🇲🇲မြန်မာသီးသန့်(Outlinekey) 009
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwWnNRUEN5R01Dd0IxN0JWZHNheVhY@tinkered-pennies-puppies.freesocks.work:443#Us1%2F38.131
+
+# M-King-VPN - 🇲🇲မြန်မာသီးသန့်(Outlinekey) 010
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5Japan
+
+# kindvpn - Ais64kbps V2ray 01 
+vless://7c8bc52c-133b-43c3-8f27-c73ef2367dd7@kindvpn12.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-sh1z1gse
+
+# kindvpn - Ais64kbps V2ray 02
+vless://3a5b1c97-3173-47d4-a627-8d6d737c97fc@kindvpn4.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-yho275zd
+
+# kindvpn - Ais64kbps V2ray 03
+vless://39a08f28-1127-41a2-b1c5-dea71c490085@kindvpn5.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-wev5kulp
+
+# kindvpn - Ais 64kbps V2ray New (4)
+vless://c2ca5332-c76b-42f0-e32e-206eb7b1240d@kindvpn81.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-a70neozg
+
+# kindvpn - Ais 64kbps V2ray New (5)
+vless://8185ba05-85df-4e7d-b4ff-2561d8f2394d@kindvpn3.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-ph5b7z4d
+
+# kindvpn - Ais64kbps V2ray Game (6) 
+vless://0d3d449c-60e8-4e46-ab06-7554e5ffb847@kindvpngame1.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-i6s8qapm
+
+# jkvpn - Ais Play V2ray 01
+vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
+
+# jkvpn - Ais Play V2ray 02
+vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
+
+# jkvpn - Ais Play V2ray 03
+vless://22dc6938-3272-494c-bd46-99218abee8a8@koko2.kokodns.online:80?path=%2Fkokovpn&security=none&encryption=none&host=www.speedtest.net&type=ws#%F0%9F%94%B5%20AIS%20PLAY-ko33
+
+# JHKVPN - Ais play V2ray 01
+vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
+
+# JHKVPN - Ais play V2ray 02
+vless://e711485e-7060-4c74-abb9-8f5c818e755d@koko.kokovpn.site:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#AIS-ko33
+
+# JHKVPN - Ais play V2ray 03
+vless://22dc6938-3272-494c-bd46-99218abee8a8@ko01.kokovpn.site:80?path=%2Fkokovpn&security=&encryption=none&host=www.speedtest.net&type=ws#%F0%9F%94%B5%20AIS%20PLAY-ko33
+
+# JHKVPN - True Vdo V2ray Free 01
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imtva28ua29rb3Zwbi5zaXRlIiwiaWQiOiJjZWM3MjFiMi0zYzE4LTQ2YTgtOTUzZC1jYTU2ZDc5NjQyNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva29rb3ZwbiIsInBvcnQiOiIyMDg2IiwicHMiOiJUUlVFLWtva28iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# JHKVPN - True Vdo V2ray Free 02
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imtva28ua29rb3Zwbi5zaXRlIiwiaWQiOiJjZWM3MjFiMi0zYzE4LTQ2YTgtOTUzZC1jYTU2ZDc5NjQyNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIva29rb3ZwbiIsInBvcnQiOiIyMDg2IiwicHMiOiJUUlVFLWtva28iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# JHKVPN - True Vdo V2ray Free 03
+vless://a1eb5027-31d9-4e03-9d97-0e22eca29e85@support.zoom.us:8880?path=%2Fphyoevpn&security=none&encryption=none&host=myomin3.yelinhtetnet.online&type=ws#185-193-%F0%9D%90%93%F0%9D%90%91%F0%9D%90%94%F0%9D%90%84-%F0%9D%90%95%F0%9D%90%83%F0%9D%90%8E
+
+# JHKVPN - Myanmar VIP
+vless://cda81424-388f-4d4a-b60f-a9a4a9c1a2e0@8.215.76.26:27141?type=tcp&encryption=none&security=none#id-8jzircpw
+
+# Bamar-VPN - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-01
+vless://f3bd581b-6aa3-4408-c72e-fed59ba08334@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=kophyoe.online&type=ws#103-130-KAKHANGA-VDO
+
+# Bamar-VPN - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-02
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDEua29waHlvZS5vbmxpbmUiLCJpZCI6IjA1ZDMwNDYzLTdjMmEtNDI4Ni1kODU0LTU5NjJlMzkzZWEzZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS1LYUtoYVZETyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# Bamar-VPN - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-03
+vless://3905246b-605d-40a8-f517-3302f2b4caf8@mmt2.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&type=ws#103-252-VDO-KAKHA
+
+# Bamar-VPN - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-04
+vless://cba60c38-7d31-455a-d090-7d95e03270b3@support.zoom.us:80?path=%2Fvless&security=&encryption=none&host=mmt4.kophyoe.online&type=ws#185-193-KAKHANGA-VDO
+
+# Bamar-VPN - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-05
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDUua29waHlvZS5vbmxpbmUiLCJpZCI6IjljMGE2ODU0LTUwMzAtNDcxNi1iNGE1LTZiNTExZjI4ODAyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IjQzLTE1NC1LYUtoYU5nYVZQTi1WRE8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# Bamar-VPN - 𝑻𝒓𝒖𝒆𝒎𝒐𝒗𝒆-𝑽𝑫𝑶-𝑭𝑹𝑬𝑬-06
+vless://5c918aa6-f64b-4cc4-8dcb-2af8b76a2a43@support.zoom.us:8880?path=%2F&security=none&encryption=none&host=mmt6.kophyoe.online&type=ws#43-97-KaKhaNgaVPN-VDO
+
+# Bamar-VPN - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-01
+vless://f3bd581b-6aa3-4408-c72e-fed59ba08334@support.zoom.us:80?path=%2Fvless&security=none&encryption=none&host=kophyoe.online&type=ws#103-130-KAKHANGA-VDO
+
+# Bamar-VPN - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-02
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDEua29waHlvZS5vbmxpbmUiLCJpZCI6IjA1ZDMwNDYzLTdjMmEtNDI4Ni1kODU0LTU5NjJlMzkzZWEzZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODg4MCIsInBzIjoiMTAzLTI1MS1LYUtoYVZETyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# Bamar-VPN - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-03
+vless://3905246b-605d-40a8-f517-3302f2b4caf8@mmt2.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&type=ws#103-252-VDO-KAKHA
+
+# Bamar-VPN - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-04
+vless://cba60c38-7d31-455a-d090-7d95e03270b3@support.zoom.us:80?path=%2Fvless&security=&encryption=none&host=mmt4.kophyoe.online&type=ws#185-193-KAKHANGA-VDO
+
+# Bamar-VPN - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-05
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1tdDUua29waHlvZS5vbmxpbmUiLCJpZCI6IjljMGE2ODU0LTUwMzAtNDcxNi1iNGE1LTZiNTExZjI4ODAyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IjQzLTE1NC1LYUtoYU5nYVZQTi1WRE8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# Bamar-VPN - 𝐓𝐫𝐮𝐞𝐦𝐨𝐯𝐞-𝐕𝐃𝐎-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-06
+vless://5c918aa6-f64b-4cc4-8dcb-2af8b76a2a43@support.zoom.us:8880?path=%2F&security=none&encryption=none&host=mmt6.kophyoe.online&type=ws#43-97-KaKhaNgaVPN-VDO
+
+# Bamar-VPN - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-01
+vless://47649ea0-b2a4-43ee-99cd-51f70f60f88b@mmt6.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#43-97-KaKhaNga-Ais
+
+# Bamar-VPN - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-02
+vmess://eyJhZGQiOiJtbXQxLmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiMmVjYTJlNzMtNjlkZS00ZmE4LWU4MzAtZTM4ZWZhNmNkMmM1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL01NVFZQTiIsInBvcnQiOiI4ODgwIiwicHMiOiIxMDMtMjUxLTg4ODAtS2FLaGFBSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# Bamar-VPN - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-03
+vmess://eyJhZGQiOiJiYW1hci5rb3BoeW9lLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImMxMzYyYzVjLTQ2ZWItNDQ2Zi1hZjBlLTMyYWIwY2U0OTI1ZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODAiLCJwcyI6IjEwMy0xMzAtODAtQmFtYXJWcG4tQWlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# Bamar-VPN - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-04
+vmess://eyJhZGQiOiJtbXQ1LmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiZTE2NWQ2MmItNDk1Zi00YmUyLTk0MjctZjE1MzhiODZkODZjIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiNDMtMTU0LUthS2hhTmdhVnBuLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# Bamar-VPN - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-05
+vless://e258ac64-0784-49b9-cb49-f2d6e7f364a5@mmt4.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#185-193-80-KAKHANGA-AIS
+
+# Bamar-VPN - 𝑨𝒊𝒔𝑷𝒍𝒂𝒚-𝑭𝒓𝒆𝒆-06
+vless://3aed7115-dbfc-47e2-e20d-95acdd8341dc@mmt1.kophyoe.online:80?path=%2FMMTVPN&security=none&encryption=none&host=www.speedtest.net&type=ws#103-251-80-Bamar-AIS
+
+# Bamar-VPN - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-01
+vless://3aed7115-dbfc-47e2-e20d-95acdd8341dc@mmt1.kophyoe.online:80?path=%2FMMTVPN&security=none&encryption=none&host=www.speedtest.net&type=ws#103-251-80-Bamar-AIS
+
+# Bamar-VPN - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-02
+vless://e258ac64-0784-49b9-cb49-f2d6e7f364a5@mmt4.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#185-193-80-KAKHANGA-AIS
+
+# Bamar-VPN - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-03
+vmess://eyJhZGQiOiJtbXQ1LmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiZTE2NWQ2MmItNDk1Zi00YmUyLTk0MjctZjE1MzhiODZkODZjIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiI4MCIsInBzIjoiNDMtMTU0LUthS2hhTmdhVnBuLUFJUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# Bamar-VPN - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-04
+vmess://eyJhZGQiOiJiYW1hci5rb3BoeW9lLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImMxMzYyYzVjLTQ2ZWItNDQ2Zi1hZjBlLTMyYWIwY2U0OTI1ZCIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9NTVRWUE4iLCJwb3J0IjoiODAiLCJwcyI6IjEwMy0xMzAtODAtQmFtYXJWcG4tQWlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# Bamar-VPN - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-05
+vmess://eyJhZGQiOiJtbXQxLmtvcGh5b2Uub25saW5lIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiMmVjYTJlNzMtNjlkZS00ZmE4LWU4MzAtZTM4ZWZhNmNkMmM1IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL01NVFZQTiIsInBvcnQiOiI4ODgwIiwicHMiOiIxMDMtMjUxLTg4ODAtS2FLaGFBSVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# Bamar-VPN - 𝐀𝐢𝐬𝐏𝐥𝐚𝐲-𝐏𝐫𝐞𝐦𝐢𝐮𝐦-06
+vless://47649ea0-b2a4-43ee-99cd-51f70f60f88b@mmt6.kophyoe.online:80?path=%2Fvless&security=none&encryption=none&host=www.speedtest.net&type=ws#43-97-KaKhaNga-Ais
+
+# Bamar-VPN - 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑭𝒓𝒆𝒆-01
+ss://YWVzLTI1Ni1nY206cVFPNVI3bzNNS2hrL05HMWlJQ3BTRGRIVkxGVDFLcUNkL1NEeFVEdkZEVT0@mmt6.kophyoe.online:52351?type=tcp#All-SIM-MY-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
+
+# Bamar-VPN - 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑭𝒓𝒆𝒆-02
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bGpHcU56QlZGc3h6bDNDcWszSUF5ZzIvTytBd3hXUlkxSTZHN2JCZXpCUT06UndhOXA1cmtyYjRDR201UnBzSWVOaW42YzJPT0RZZWhwd1Z4MHhLREdTZz0@mmt5.kophyoe.online:8443?type=tcp#All-Sim-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
+
+# Bamar-VPN - 𝑨𝒍𝒍 𝑺𝒊𝒎 𝑴𝒚𝒂𝒏𝒎𝒂𝒓 𝑭𝒓𝒆𝒆-03
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NjFZL2RqTzZ1aHBwSDMyT1BIS2VJd0lpYmhnVFFpRHRKYVZiRExwbDUwUT06YmwxUERCVlZFc3BFY0IrZjIybFMvUUE0WkM4bEN5bTR4a2ZIb1l6elBiaz0@185.78.167.193:40449?type=tcp#%F0%9D%91%A8%F0%9D%92%8D%F0%9D%92%8D%20%F0%9D%91%BA%F0%9D%92%8A%F0%9D%92%8E%20%F0%9D%91%B6%F0%9D%92%96%F0%9D%92%95%F0%9D%92%8D%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%86%20%F0%9D%91%B2%F0%9D%92%86%F0%9D%92%9A-%F0%9D%97%95%F0%9D%97%AE%F0%9D%97%BA%F0%9D%97%AE%F0%9D%97%BF%20%F0%9D%97%A9%F0%9D%97%A3%F0%9D%97%A1
+
+# kothavip - Ais (V2) Vip 1
+vless://a4ed61da-0b30-4849-9634-aa6cd58cd919@v2vip1.kothaktt.com:80?path=%2F&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#V2-Ais%202
+
+# kothavip - True VDO (V2) Vip 1
+vless://6acc10bd-ca62-47b5-8b79-07138c49c934@support.zoom.us:80?path=%2F&security=none&encryption=none&host=v2vip1.kothaktt.com&type=ws#V2-True%202
+
+# kothavip - True VDO (V2) Vip 2
+vless://ec7b8a0b-310d-4acc-8cf6-cd162bb6dbdc@support.zoom.us:80?path=%2F&security=none&encryption=none&host=sshwsv2vip.kothaktt.com&type=ws#Vip-True
+
+# kothavip - Ais (V2) Vip 2
+vless://fdf355a1-2ea6-4152-9f99-f0c7aa51fc75@sshwsv2vip.kothaktt.com:80?path=%2F&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#Vip-Ais
+
+# All-VPN - Ais64kbps V2ray 01
+vless://89c7384c-f14a-451b-ade4-9a8602ff0364@jaideevpn6.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-nwt3iiz8
+
+# All-VPN - Ais64kbps V2ray 02
+vless://2ab0d0bd-feaf-4bc2-8b9d-bf2485c10f48@jaideevpn8.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-bgso5rbx
+
+# All-VPN - Ais 64kbps V2ray 03
+vless://63b5ad2e-c97d-4003-af5d-048450628d79@jaideevpn7.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-18opt9a0
+
+# up-juevpn - Ais 64kbps V2ray New (4)
+vless://1fa392bf-73d8-4e11-b372-ed460da42eeb@kindvpn12.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-z25ypo83
+
+# up-juevpn - Ais 64kbps V2ray New (5)
+vless://c7d8c652-af79-449f-9c59-e08e271276ca@kindvpn3.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-o1tqw6o0
+
+# up-juevpn - Ais64kbps V2ray Game (6) 
+vless://0d3d449c-60e8-4e46-ab06-7554e5ffb847@kindvpngame1.knlvpn.com:8080?path=%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-i6s8qapm
+
+# mkingvpnnaw2026 - Ais Game_Support_Free 001
+vless://a110004b-47c1-42e8-8219-e46b4d7366c3@auto.free1.movpn.de5.net:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#Admin-Ais
+
+# mkingvpnnaw2026 - Ais Game_Support_Free 002
+vless://a110004b-47c1-42e8-8219-e46b4d7366c3@auto.free2.movpn.de5.net:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#Admin-Ais
+
+# mkingvpnnaw2026 - Ais Game_Support_Free 003
+vless://a110004b-47c1-42e8-8219-e46b4d7366c3@auto.free3.movpn.de5.net:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#Admin-Ais3
+
+# mkingvpnnaw2026 - Ais Game_Support_Free 004
+vless://a110004b-47c1-42e8-8219-e46b4d7366c3@auto.free4.movpn.de5.net:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#Admin-Ais3
+
+# mkingvpnnaw2026 - Ais Game_Support_Free 005
+vless://a110004b-47c1-42e8-8219-e46b4d7366c3@auto.free1.movpn.de5.net:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#Admin-Ais3
+
+# mkingvpnnaw2026 - True Game_Support_Free 001
+vless://a110004b-47c1-42e8-8219-e46b4d7366c3@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=auto.free1.movpn.de5.net&type=ws#Admin-VDO1
+
+# mkingvpnnaw2026 - True Game_Support_Free 002
+vless://a110004b-47c1-42e8-8219-e46b4d7366c3@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=auto.free2.movpn.de5.net&type=ws#Admin-VDO1
+
+# mkingvpnnaw2026 - True Game_Support_Free 003
+vless://a110004b-47c1-42e8-8219-e46b4d7366c3@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=auto.free3.movpn.de5.net&type=ws#Admin-VDO1
+
+# mkingvpnnaw2026 - True Game_Support_Free 004
+vless://a110004b-47c1-42e8-8219-e46b4d7366c3@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=auto.free4.movpn.de5.net&type=ws#Admin-VDO1
+
+# mkingvpnnaw2026 - True Game_Support_Free 005
+vless://a110004b-47c1-42e8-8219-e46b4d7366c3@support.zoom.us:80?path=%2Fmovpn&security=none&encryption=none&host=auto.free1.movpn.de5.net&type=ws#Admin-VDO1
+
+# mkingvpnnaw2026 - Ais Game_Support_Premium 001
+vless://2cd6144e-da55-4700-8e4d-7efdfbf02a86@tmvh.co.tzvip1.mvpn5g.com:8080?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#Ais-Vip1
+
+# mkingvpnnaw2026 - Ais Game_Support_Premium 002
+vless://a887671b-c9bc-4a6f-f747-eb3f052c01c4@myo.vip.mvpn5g.com:8080?path=%2Fray&security=none&encryption=none&host=www.speedtest.net&type=ws#Ais-Vip2
+
+# mkingvpnnaw2026 - Ais Game_Support_Premium 003
+vless://d3b93aab-b1fb-4733-fa6f-af2daf64ec21@auto.vip4.mvpn5g.com:8080?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#Aisvip-Ais
+
+# mkingvpnnaw2026 - Ais Game_Support_Premium 004
+vless://2f9198d3-d3e7-4a7d-acc1-98441b339a86@tmvh.co.mvip5.mvpn5g.com:80?path=%2Fmovpn&security=none&encryption=none&host=cj-speedtest.ebb.my&type=ws#Ais-Vip4
+
+# mkingvpnnaw2026 - True Game_Support_Premium 001
+vless://f7c9b448-a29f-4d0b-af57-9aa4f24fe9e3@support.zoom.us:80?path=%2Fray&security=none&encryption=none&host=myo.vip.mvpn5g.com&type=ws#Admin-VDO1
+
+# mkingvpnnaw2026 - True Game_Support_Premium 002
+vless://7f7167f6-4ae0-4521-a4c2-a882464f1e1d@support.zoom.us:8080?path=%2Fmovpn&security=none&encryption=none&host=auto.vip4.mvpn5g.com&type=ws#Aisvip-True
+
+# mkingvpnnaw2026 - True Game_Support_Premium 003
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InRtdmguY28udHp2aXAxLm12cG41Zy5jb20iLCJpZCI6ImVjOGE3NDgwLWNiZjEtNGQ3Zi05NTRhLWFiNGRlY2I1YjMyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI4MCIsInBzIjoiQWRtaW4tTVZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# mkingvpnnaw2026 - True Game_Support_Premium 004
+vless://2d056ea3-52bf-472e-c9cb-abe48d6f0048@support.zoom.us:8080?path=%2Fmovpn&security=none&encryption=none&host=tmvh.co.mvip5.mvpn5g.com&type=ws#Vip-True
+
+# SVPN - Thailand 1
+vmess://eyJhZGQiOiJzdnBuZnJlZTFkZWMuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImE0ODJkNjgzLTQyODctNDAzYi1iYjYxLTk5NDQ2NmY5MTA1MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9KNUVkWTlyRi8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZTFkZWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# SVPN - Thailand 2
+vmess://eyJhZGQiOiJzdnBuZnJlZTJkZWMuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjAwNzYxYjYzLTYzYzQtNDQ5Zi05YTkxLTcwNGRjZTBhMmY5MCIsIm5ldCI6IndzIiwicGF0aCI6Ii95NDJLU2Jzdy8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZTJkZWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# SVPN - Thailand 3
+vmess://eyJhZGQiOiJzdnBuZnJlZTNkZWMuc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6Ijc2OGQ2MGQ1LTc3YzItNDdhZi04YmVmLWVmMWQ1YTIzMDk1OSIsIm5ldCI6IndzIiwicGF0aCI6Ii9TbEZud2FtZS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZTNkZWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# SVPN - Thailand 4
+vmess://eyJhZGQiOiJzdnBuZnJlZTRqYW4uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6Ijk3N2MyOTJjLTE1MmQtNDRiOS05ZjE4LTkwZDE5MDcyN2E0OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ZSE1jV1ZhTy8iLCJwb3J0IjoiODA4MCIsInBzIjoic3ZwbiBmcmVlIDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# SVPN - Thailand 5
+vmess://eyJhZGQiOiJzdnBuZnJlZTVqYW4uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjdmYjg5Yjg1LWQ2NGItNDJlOS05NTk2LWJlMjYxYmYwNjY2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii9LSE9EbjdTWC8iLCJwb3J0IjoiODA4MCIsInBzIjoic3ZwbiBmcmVlIDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+# SVPN - Thailand 6
+vmess://eyJhZGQiOiJzdnBuZnJlZTZqYW4uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6IjliZDUzZWNlLTU4MTEtNDhjNS04ZDI5LWVhMjg5OTMzMzg5NiIsIm5ldCI6IndzIiwicGF0aCI6Ii9wOXVYU0NyQi8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# SVPN - Thailand 7
+vmess://eyJhZGQiOiJzdnBuZnJlZTdqYW4uc2tzdnBuLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNqLXNwZWVkdGVzdC5lYmIubXkiLCJpZCI6ImMxZjFiYTZjLTljNjQtNDFhYi1hMzI0LWFjOTZmZGRiZDZmNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9DZ3lLUGxrTS8iLCJwb3J0IjoiODA4MCIsInBzIjoiZnJlZSA3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# Ksovip - Ais-64Kbps-V2-02
+vmess://eyJhZGQiOiJrc29zc2gubWFyaXBwcC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6Ijk1NTc3ODNkLTNlMTktNGZkYy1iMDc5LWQwOWVhMWY0NGUxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA4MCIsInBzIjoiS3lhdyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
+# Ksovip - Ais-64Kbps-V2-01
+vless://6e946453-2d7f-4ac9-8f41-45d5752373ee@yiyikso.marippp.com:8080?path=%2F2hAiW3jt%2F&security=none&encryption=none&host=www.speedtest.net&type=ws#45.91.133.68%3A8080
+
+# Ksovip - True-V2-VDO-01
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imtzb3NzaC5tYXJpcHBwLmNvbSIsImlkIjoiOTU1Nzc4M2QtM2UxOS00ZmRjLWIwNzktZDA5ZWExZjQ0ZTFkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJLeWF3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+# Ksovip - MYANMAR-V2-01
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Z1JKQXBkZlF4SWF2S1o4aFFHUzRqdm52R0tLNnRxMFBvRmxQdytmaS8zYz0@103.114.203.183:8443?type=tcp#Myanmar-kkkkk
+
+# Ksovip - TRUE-VDO-V2ဖိုင်း-03
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InlpeWlrc28ubWFyaXBwcC5jb20iLCJpZCI6IjliMzRkYTA0LTU5NDQtNDM0NC1lOTY1LTE3ZjM2ODZmNDY1NSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkhpLVZJUDMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+# Ksovip - Ais-64Kbps-V2-03
+vmess://eyJhZGQiOiJ5aXlpa3NvLm1hcmlwcHAuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImlkIjoiOWIzNGRhMDQtNTk0NC00MzQ0LWU5NjUtMTdmMzY4NmY0NjU1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiSGktYWlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+
