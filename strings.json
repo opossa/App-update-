@@ -31,6 +31,7 @@
       "id": "animemoji",
       "name": "Animemoji",
       "domain": "anime-good.com",
+      "logo": "",
       "categories": [
         {
           "id": "home",
@@ -58,6 +59,7 @@
       "id": "fixmono",
       "name": "Fixmono",
       "domain": "flixmono.com",
+      "logo": "",
       "categories": [
         {
           "id": "series_new",
@@ -100,6 +102,7 @@
       "id": "goseries4k",
       "name": "GoSeries4K",
       "domain": "goseries4k.com",
+      "logo": "",
       "categories": [
         {
           "id": "series_online",
@@ -142,6 +145,7 @@
       "id": "wowdrama",
       "name": "WowDrama",
       "domain": "wow-drama.com",
+      "logo": "",
       "categories": [
         {
           "id": "series_all",
@@ -189,6 +193,7 @@
       "id": "hdd1112",
       "name": "1112HDD",
       "domain": "1112hdo.com",
+      "logo": "",
       "categories": [
         {
           "id": "chinese_thai_dub",
@@ -231,6 +236,7 @@
       "id": "seriesday",
       "name": "SeriesDay",
       "domain": "www.series-days.com",
+      "logo": "",
       "categories": [
         {
           "id": "chinese",
@@ -278,6 +284,7 @@
       "id": "movie123",
       "name": "123HDD",
       "domain": "www.123hdtv.com",
+      "logo": "",
       "categories": [
         {
           "id": "new_2025",
@@ -330,6 +337,7 @@
       "id": "movie24hd",
       "name": "24HD",
       "domain": "www.24-hdmovie.com",
+      "logo": "",
       "categories": [
         {
           "id": "home",
